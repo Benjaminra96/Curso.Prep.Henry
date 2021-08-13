@@ -1,0 +1,4 @@
+ for : crea un bucle evaluando expresiones una y otra vez hasta que devuelve lo que estamos buscando o se detiene después de cierto tiempo.
+ &&: El operador Y (AND) evaluará ambas expresiones y devolverá true si ambas expresiones son true.Si uno (o ambos) son false, devolverá false.
+    ||: El operador O (OR), determinará si una de la expresiones es true. Si una o ambas es true, devolverá true. Devolverá false si ambas son false.
+    !: El operador NOT (NO), devolverá el valor booleano opuesto de lo que se le pasa.
